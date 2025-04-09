@@ -19,3 +19,9 @@ O **Prophet** fez uso do método Bayesiano de Monte Carlo via Cadeia de Markov, 
 | XGBoost          | 1,70%          | 3,19%       |
 | Light GBM        | 2,17%          | 3,05%       |
 | Prophet          | 61,75%         | 60,14%      |
+
+
+## Execução do código
+
+O código produzido foi implimentado no google colab, para uso, faça o download do código, baixe os dados no local descrito no início do código. Como foi realizado o uso do google colab, os dados estão em salvos em uma pasta dentro do google drive.
+
